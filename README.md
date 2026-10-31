@@ -1,28 +1,55 @@
-# Hi! 👋
+# Hi there, I'm Olga 👋
 
-My name is Olga and I'm a frontend developer.
+**Frontend Developer** specializing in **React**, **Next.js 15 (App Router)**, and **TypeScript**.  
+I focus on building performant, accessible web applications with clean architecture and green Core Web Vitals.
 
-💻 I'm passionate about creating beautiful and functional interfaces.  
-🎯 My goal is to become an expert in web development and contribute to the development of projects.  
-🚀 I'm interested in website development, performance optimization, and other technical aspects of web development.  
-🌺 Web development is not just a job for me, it's my hobby that I dedicate a lot of time and energy to.    
-📩 I'm excited about new projects and opportunities to grow with them! 
+---
 
-🛠️ My tech stack:  
+### 🚀 Featured Production Project
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1280px-HTML5_logo_and_wordmark.svg.png" alt="HTML logo" height="40">  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS logo" height="40">    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass logo" height="40">  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript logo" height="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React logo" height="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="Redux logo" height="40"> <img src="https://webpack.js.org/assets/icon-square-big.svg" alt="Webpack logo" height="40"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VScode logo" height="40"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git logo" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mySQL logo" height="40">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS logo" height="40">   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma logo" height="40">  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap logo" height="40">
+#### [Polyglot Studio](https://polyglot-studio.ru/) — Interactive EdTech Web Application
+*An interactive language learning platform built with Next.js 15 and modern frontend tooling.*
 
-📊 My stats:
+- **Live Application:** [polyglot-studio.ru](https://polyglot-studio.ru/)
+- **Source Code:** [github.com/olga-kozhevina/polyglot-studio](https://github.com/olga-kozhevina)
+- **Performance:** **97/100** Google PageSpeed | Core Web Vitals: **TBT 0ms**, **CLS 0**, **FCP 1.5s**, **LCP 2.4s**
 
-[![Codewarrior Profile Badges](https://www.codewars.com/users/Olga%20Kozhevina/badges/small?theme=light)](https://www.codewars.com/users/Olga%20Kozhevina)
+**Key Engineering Highlights:**
+- **Static Generation:** Next.js 15 App Router with Static Site Generation (SSG) for instant page loads.
+- **Real-Time Audio Sync:** Custom `useAudioSync` React hook ensuring synchronization between HTML5 Audio and interactive subtitle text.
+- **State Management:** Zustand with `persist` middleware (LocalStorage), isolated state subscriptions via atomic selectors to eliminate re-renders.
+- **Hydration Safety:** Controlled rendering flow via `_hasHydrated` flag, preventing React hydration mismatches and layout shifts.
+- **Hardware-Accelerated UI:** Spaced repetition flashcards with CSS 3D transforms (`preserve-3d`), keeping the main thread idle (TBT 0ms).
+- **Modern UI/UX:** Responsive interface built with Tailwind CSS, Shadcn UI components, and Recharts analytics dashboard.
 
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=olga-kozhevina&hide=contribs&show_icons=true">
-  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=olga-kozhevina&hide=issues&show_icons=true" />
-</a>   
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=olga-kozhevina&layout=compact">
-  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olga-kozhevina&layout=compact" />
-</a>
-</div>
+---
 
+### 🛠️ Tech Stack & Tools
 
+**Core & Frameworks:**  
+`TypeScript` • `JavaScript (ES6+)` • `React` • `Next.js 15 (App Router, SSG)`
+
+**State & Data:**  
+`Zustand` • `Redux Toolkit` • `REST APIs` • `Fetch API`
+
+**Styling & UI:**  
+`Tailwind CSS` • `Shadcn UI` • `CSS3 (3D Transforms)` • `HTML5 / Semantic Web` • `Figma`
+
+**Performance & Engineering:**  
+`Core Web Vitals` • `PageSpeed Optimization` • `Git / GitHub` • `Vite`
+
+---
+
+### 🌐 Languages & Background
+- **English:** C1 (Proficient / Fluent) — comfortable reading technical specifications, API docs, and participating in team discussions.
+- **Russian:** Native
+- **French:** A2 | **Turkish:** A2
+- **Education:** B.S. in Project Management (Saint Petersburg Mining University) & M.A. in Linguistics.
+
+---
+
+### 📫 Connect with me
+- **Portfolio / Live Project:** [polyglot-studio.ru](https://polyglot-studio.ru/)
+- **Telegram:** [@твой_ник_в_тг]
+- **Email:** olgkoj@yandex.ru
+- **Location:** Saint Petersburg, Russia (Open to Remote / Hybrid / On-site)
